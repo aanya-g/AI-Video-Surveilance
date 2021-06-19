@@ -1,0 +1,27 @@
+body {
+    background-size:cover;
+}
+.heading{
+    width:100%;
+    font-size:30px;
+    margin:0;
+}
+.start, .number_object_detected, .status{
+    font-size:20px;
+}
+.copy_right_footer{
+    font-size:20px;
+    position : fixed;
+    bottom:0;
+    margin:0;
+    width:100%;
+    color:white;
+    background-color: black;
+    box-shadow: 0px -5px 5px chartreuse;
+    text-shadow: 2px 2px 3px rgb(0, 225, 255);
+}
+
+canvas{
+    border: 5px dotted chartreuse;
+    margin-top : 100px
+}
